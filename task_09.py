@@ -9,4 +9,3 @@ sorted_keys = sorted(counts.keys())
 
 for key in sorted_keys:
     print(f"{key}: {counts[key]}")
-
