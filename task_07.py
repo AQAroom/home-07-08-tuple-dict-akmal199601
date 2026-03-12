@@ -13,4 +13,3 @@ while True:
 if grades_dict:
     average = sum(grades_dict.values()) / len(grades_dict)
     print(f"{average:.2f}")
-    

@@ -8,4 +8,3 @@ while True:
 
 for city in sorted(visits.keys()):
     print(f"{city}: {visits[city]}")
-    
