@@ -13,4 +13,3 @@ while True:
 if prices:
     most_expensive = max(prices, key=prices.get)
     print(most_expensive)
-    

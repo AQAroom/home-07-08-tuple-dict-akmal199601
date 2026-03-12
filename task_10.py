@@ -14,4 +14,3 @@ for _ in range(m):
 
 for key in sorted(profile.keys()):
     print(f"{key}: {profile[key]}")
-    
